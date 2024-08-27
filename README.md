@@ -1,19 +1,19 @@
-### 👋 Hi, guys! 
-#### 🐵 I'm subin, a dreamer who wants become a front-end developer over the world. 
--
+# 👋 Hi, guys! 
+## 🐵 I'm subin, a dreamer who wants become a front-end developer over the world. 
+--
 - 🎨️I like yellow, green, blue, grey and check patterns so I want to make a colorful website.
 - 🔍I'm studing TypeScript, React and English.
 - 📚Reading books is one of my hobbies. I especially like modern Korea fictions and comic books. I'm interested in creating a website related to books.
 - 🎠My goal is to be a developer who creates useful websites.
 
-### Experience
--
+## Experience
+--
 - ✒️(23.07.17. ~ 23.11.13.) 디지털스마트부산 아카데미 : SW전문인재양성 데이터사이언스
 - 👩‍🎓(24.02.23.) 동의대학교 문헌정보학과 졸업
 - ✒️(24.01.02.~ ) 삼성 청년 소프트웨어 아카데미(SSAFY)   
 
-### Languages & Tools 
--
+## Languages & Tools 
+--
 <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-572B6?style=flat&logo=css3&logoColor=white"/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
 </div>
 
-#### More Info
+## More Info
 --
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Subiniiie&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subiniiie&layout=compact&theme=gruvbox)
