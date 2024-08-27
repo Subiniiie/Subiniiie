@@ -1,4 +1,4 @@
-<p style="font-size: 2em; font-weight: bold;">👋 Hi, guys!</p>
+<h1>👋 Hi, guys!</h1>
 <h2>🐵 I'm subin, a dreamer who wants to become a front-end developer around the world.</h2>
 - 🎨️I like yellow, green, blue, grey and check patterns so I want to make a colorful website.
 - 🔍I'm studing TypeScript, React and English.
