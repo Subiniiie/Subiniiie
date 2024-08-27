@@ -1,4 +1,4 @@
-# 👋 Hi, guys! 
+# 👋 Hi, guys!
 ## 🐵 I'm subin, a dreamer who wants become a front-end developer over the world. 
 - 🎨️I like yellow, green, blue, grey and check patterns so I want to make a colorful website.
 - 🔍I'm studing TypeScript, React and English.
