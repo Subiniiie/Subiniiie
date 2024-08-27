@@ -1,5 +1,4 @@
-<h1>👋 Hi, guys!</h1>
-**🐵 I'm subin, a dreamer who wants to become a front-end developer around the world.** 
+<h1>👋 Hi, guys! <br> 🐵 I'm subin, a dreamer who wants to become a front-end developer around the world.</h1>
 - 🎨️I like yellow, green, blue, grey and check patterns so I want to make a colorful website.
 - 🔍I'm studing TypeScript, React and English.
 - 📚Reading books is one of my hobbies. I especially like modern Korea fictions and comic books. I'm interested in creating a website related to books.
