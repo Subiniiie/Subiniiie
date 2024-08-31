@@ -11,20 +11,22 @@
 - 🔔(24.03.09.) 빅데이터 활용 미래 사회문제해결 아이디어 해커톤 우수상
 - ✒️(24.01.02.~ ) 삼성 청년 소프트웨어 아카데미(SSAFY) 11기   
 
-## Languages & Tools 
+## Skills 
 <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/vuejs-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 </div>
+
+## Studying
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 
 ## More Info
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Subiniiie&show_icons=true&theme=gruvbox)
