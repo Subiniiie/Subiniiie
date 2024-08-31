@@ -25,8 +25,10 @@
 </div>
 
 ## Studying
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+</div>
 
 ## More Info
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Subiniiie&show_icons=true&theme=gruvbox)
