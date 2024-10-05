@@ -1,9 +1,5 @@
 # 👋 Hi, guys! 
 ### 🐵 I'm subin, a dreamer who wants to become a front-end developer around the world.
-- 🎨️I like yellow, green, blue, grey and check patterns so I want to make a colorful website.
-- 🔍I'm studing TypeScript, React and English.
-- 📚Reading books is one of my hobbies. I especially like modern Korea fictions and comic books. I'm interested in creating a website related to books.
-- 🎠My goal is to be a developer who creates useful websites.
 
 ## Experience
 - ✒️(23.07.17. ~ 23.11.13.) 디지털스마트부산 아카데미 : SW전문인재양성 데이터사이언스
