@@ -36,9 +36,8 @@
   
 ## Contact
 -  이메일 : subin57419@gmail.com
-- 개발 블로그 : https://subiniiie.tistory.com/
-- 포트폴리오 : https://subin-portfolio-amber.vercel.app/
-  
+- 개발 블로그 : <a href="https://subiniiie.tistory.com/" target="_blank">https://subiniiie.tistory.com/</a>
+- 포트폴리오 : <a href="https://subin-portfolio-amber.vercel.app/" target="_blank">https://subin-portfolio-amber.vercel.app/</a>
 ## More Info
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Subiniiie&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subiniiie&layout=compact&theme=gruvbox)
