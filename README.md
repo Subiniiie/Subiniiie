@@ -1,4 +1,5 @@
 # 👋 Hi, guys! 
+
 ### 🐵 I'm subin, a dreamer who wants to become a front-end developer around the world.
 
 ## Experience
@@ -32,8 +33,12 @@
     <img src="https://img.shields.io/badge/react native-61DAFB?style=flat&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   </div>
-
+  
+## Contact
+-  이메일 : subin57419@gmail.com
+- 개발 블로그 : https://subiniiie.tistory.com/
+- 포트폴리오 : https://subin-portfolio-amber.vercel.app/
+  
 ## More Info
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Subiniiie&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subiniiie&layout=compact&theme=gruvbox)
-
