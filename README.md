@@ -34,10 +34,9 @@
     <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   </div>
   
-## Contact
--  이메일 : subin57419@gmail.com
-- 개발 블로그 : <a href="https://subiniiie.tistory.com/" target="_blank">https://subiniiie.tistory.com/</a>
-- 포트폴리오 : <a href="https://www.notion.so/1dc0eb9b39f580b8b689f9c486a26092?pvs=4" target="_blank">https://www.notion.so/1dc0eb9b39f580b8b689f9c486a26092?pvs=4</a>
+## MyPage
+- 🚀 [개발 블로그 바로가기](https://subiniiie.tistory.com/)
+- 🚀 [포트폴리오 바로가기](https://www.notion.so/1dc0eb9b39f580b8b689f9c486a26092?pvs=4)
 
 ## More Info
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Subiniiie&show_icons=true&theme=gruvbox)
