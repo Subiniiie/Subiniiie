@@ -36,7 +36,7 @@
   
 ## MyPage
 - 🚀 [개발 블로그 바로가기](https://subiniiie.tistory.com/)
-- 🚀 [포트폴리오 바로가기](https://www.notion.so/1dc0eb9b39f580b8b689f9c486a26092?pvs=4)
+- 🚀 [포트폴리오 바로가기](https://www.notion.so/22c0eb9b39f580d792c3d33e9e85fc1a)
 
 ## More Info
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Subiniiie&show_icons=true&theme=gruvbox)
